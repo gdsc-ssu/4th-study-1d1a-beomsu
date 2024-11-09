@@ -10,9 +10,11 @@
 대각선으로 올라가는 행동과 일직선으로 내려가는 행동을 구별하는 플래그를 두자.
 """
 
+from typing import List
+
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        zigzag: Array[Array[str]] = [[] for i in range(numRows)]
+        zigzag: List[List[str]] = [[] for i in range(numRows)]
         print(zigzag)
 
         isZig: bool = False
