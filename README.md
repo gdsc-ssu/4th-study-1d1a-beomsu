@@ -6,4 +6,5 @@
 | 11.07 | [Longest Substring Without Repeating Characters - 3번](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | DP | leetcode | medium |
 | 11.08 | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | 구현 | 프로그래머스 | LV.1 |
 | 11.09 | [zigzag conversion - 6번](https://leetcode.com/problems/zigzag-conversion/description/) | 구현 | leetcode | medium |
-| 11.09 | [3Sums - 15번](https://leetcode.com/problems/zigzag-conversion/description/) | 구현 | leetcode | medium |
+| 11.09 | [3Sums - 15번](https://leetcode.com/problems/3sum/description/) | 구현(투포인터) | leetcode | medium |
+| 11.09 | [Roman to Integer - 13번](https://leetcode.com/problems/roman-to-integer/) | 구현 | leetcode | Easy |
